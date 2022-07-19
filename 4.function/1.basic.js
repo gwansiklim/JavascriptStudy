@@ -1,6 +1,5 @@
 // 사용예제 1
 function sum(a, b) {
-    console.log('function');
     return a + b; // 함수에서 값을 외부로 반환을 하기 위해 return을 사용해야 한다
 }
 const result = sum(1, 2);
